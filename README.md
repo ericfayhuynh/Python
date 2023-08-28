@@ -1,4 +1,4 @@
-# Python
+# Intro to Python Challenge
 
 ### Objective
 Utilize Python scripting skills to analyze financial and election data. Develop scripts to calculate metrics like total months, net profit, average change, and winners.
